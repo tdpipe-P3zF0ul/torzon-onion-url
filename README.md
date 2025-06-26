@@ -39,3 +39,5 @@ This resource provides educational information about the darkweb. We neither end
 ### Disclaimer:
 
 This is for educational purposes only. We do not encourage any illegal acts.
+
+Update:  26.06.2025
