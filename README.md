@@ -48,4 +48,6 @@ This is for educational purposes only. We do not encourage any illegal acts.
 
 
 
-Update: link is back up
+
+
+Update:  21.07.2025 link is functioning properly
